@@ -11,7 +11,7 @@
  [![@sark07's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sark07)](https://holopin.io/@sark07)
  
 # 💫 About Me:
-- 🔭 I’m currently working on Dall-e clone.<br>- 🌱 I’m currently learning NextJS.<br>- 👯 I’m looking to collaborate on full-stack projects.<br>- 🤔 I’m looking for help with web3<br>- 💬 Ask me about web.<br>- 📫 How to reach me: https://portfolio-pritam.vercel.app/<br>- 😄 Pronouns: He/Him
+- 🔭 I’m currently working on Dall-e clone.<br>- 🌱 I’m currently learning NextJS.<br>- 👯 I’m looking to collaborate on full-stack projects.<br>- 🤔 I’m looking for help with web3<br>- 💬 Ask me about web.<br>- 📫 How to reach me: <a href="https://portfolio-pritam.vercel.app/">Profile</a><br>- 😄 Pronouns: He/Him
 
 
 <h2 align="left"><samp><i><b>🛠️ Tech Stack </b></i></samp></h2>

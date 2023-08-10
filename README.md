@@ -4,7 +4,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science,+AKCSIT+'24;Interested+in+blockchain!;Full-Stack+Web+Developer+!!;AI+ML+Enthusiast;Always+love+to+hear+about+new+ideas!&center=true&width=500&height=50"></a>
 </p>
 
-<h4 align="center"><samp>I'm a web developer and AI/ML enthusiast and I am exploring a lot from the community of developers. I am exploring new technologies and eager to know how they work.
+<h4 align="center"><samp>I'm a web developer and AI/ML enthusiast and I am exploring a lot from the community of developers. I am leaening new technologies and eager to know how they work.
  I am always open to collaborating on projects and hear about innovative/disruptive ideas.</samp></h4>
  <br />
  

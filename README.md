@@ -12,7 +12,7 @@
  
 # 💫 About Me:
 - 🔭 I’m currently working on prompt engineering.<br>- 🌱 I’m currently learning LLM.<br>- 👯 I’m looking to collaborate on full-stack projects.<br>- 🤔 I’m looking for help with web3<br>- 💬 Ask me about web.<br>- 📫 How to reach me: <a href="https://portfolio-pritam.vercel.app/">Profile</a><br>- 😄 Pronouns: He/Him
-
+<br><b>Visitors</b><br>
   [![HitCount](https://hits.dwyl.com/sark-07/sark-07.svg?style=flat-square&show=unique)](http://hits.dwyl.com/sark-07/sark-07)
 
 <h2 align="left"><samp><i><b>🛠️ Tech Stack </b></i></samp></h2>

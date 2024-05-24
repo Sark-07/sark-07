@@ -11,7 +11,7 @@
  [![@sark07's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sark07)](https://holopin.io/@sark07)
  
 # 💫 About Me:
-- 🔭 I’m currently working on prompt engineering.<br>- 🌱 I’m currently learning LLM.<br>- 👯 I’m looking to collaborate on full-stack projects.<br>- 🤔 I’m looking for help with web3<br>- 💬 Ask me about web.<br>- 📫 How to reach me: <a href="https://portfolio-pritam.vercel.app/">Profile</a><br>- 😄 Pronouns: He/Him
+- 🔭 I’m currently working on CTS module of WBIFMS.<br>- 🌱 I’m currently learning Angular & .NET.<br>- 👯 I’m looking to collaborate on full-stack projects.<br>💬 Ask me about web.<br>- 📫 How to reach me: <a href="https://portfolio-pritam.vercel.app/">Profile</a><br>- 😄 Pronouns: He/Him
 <br><b>Visitors</b><br>
   [![HitCount](https://hits.dwyl.com/sark-07/sark-07.svg?style=flat-square&show=unique)](http://hits.dwyl.com/sark-07/sark-07)
 

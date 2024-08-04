@@ -1,5 +1,5 @@
 <h2 align="center"> Hey there! How ya doing? I am Prime .<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
-<h3 align="center">Software Developer Trainee @NIC and a passionate full-stack developer from Kolkata, India</h3>
+<h3 align="center">Software Developer @NIC and a passionate full-stack developer from Kolkata, India</h3>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science,+AKCSIT+'24;Interested+in+blockchain!;Full-Stack+Web+Developer+!!;AI+ML+Enthusiast;Always+love+to+hear+about+new+ideas!&center=true&width=500&height=50"></a>
 </p>
